@@ -1,1 +1,1 @@
-# typescript-react-app
+# In this project I will implement Typescript in React practics
